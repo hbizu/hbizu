@@ -4,7 +4,7 @@
 ---
 
 ### 🚀 About Me
-- 🎓 Computer Engineering student at IFMG  
+- 🎓 Computer Engineer
 - 🤖 Focused on **Artificial Intelligence, Machine Learning, and Data Science**  
 - 🧠 Experience with **classification models, imbalanced datasets, and real-world health data**  
 - 🖼️ Interested in **Digital Image Processing and Computer Vision**  
