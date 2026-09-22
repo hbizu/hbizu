@@ -1,5 +1,5 @@
 <h1 align="center">Hello World 👋, I'm Heloísa</h1>
-<h3 align="center">Computer Engineering Student | Artificial Intelligence & Machine Learning Enthusiast</h3>
+<h3 align="center">Computer Engineer | Artificial Intelligence & Machine Learning Enthusiast</h3>
 
 ---
 
